@@ -37,13 +37,13 @@ h2 {
 	font-size: 1.2em;
 	border: 0.2em #3c4262 solid;
 	border-radius: 0.6em;
-	height: 1.4em;
+	height: 2em;
 	margin-top: 7em;
 	display: inline;
 	position: relative;
 }
 .boxes:hover {
-	
+	font-size: 1.4em;
 }
 #box1 {
 	margin-left: 30%;
