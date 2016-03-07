@@ -33,8 +33,10 @@ body {
 	top: 4em;
 	width: 100%;
 }*/
-#basicDiv {
-	height: 4em;
+#firstDiv {
+	height: 3em;
+	position: fixed;
+	top: 0em;
 }
 .boxes {
 	text-align: center;
@@ -43,10 +45,7 @@ body {
 	font-size: 1.2em;
 	border: 0.2em #3c4262 solid;
 	border-radius: 0.6em;
-	height: 3em;
 	display: inline;
-	position: fixed;
-	top: 0em;
 }
 .boxes:hover {
 	font-size: 1.4em;
