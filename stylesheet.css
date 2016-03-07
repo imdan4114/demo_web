@@ -5,7 +5,7 @@
 body {
 	background-color: #edcbc2;
 }
-#banner_top {
+.banner_top {
 	background-color: #6d2e3f;
 	height: 4em;
 	font-family: impact;
@@ -16,7 +16,7 @@ body {
 	top: 0em;
 	width: 100%;
 }
-#banner_top2 {
+/*#banner_top2 {
 	background-color: #6d2e3f;
 	height: 3.5em;
 	font-family: impact;
@@ -26,7 +26,7 @@ body {
 	position: fixed;
 	top: 4em;
 	width: 100%;
-}
+}*/
 #basicDiv {
 	height: 4em;
 }
