@@ -33,7 +33,7 @@ h2 {
 	border: 0.2em #3c4262 solid;
 	border-radius: 0.6em;
 	height: 1.4em;
-	margin-top: 1.87em;
+	margin-top: 3em;
 }
 .boxes:hover {
 	text-align: center;
@@ -43,7 +43,7 @@ h2 {
 	border: 0.2em #3c4262 solid;
 	border-radius: 0.6em;
 	height: 1.6em;
-	margin-top: 1.87em;
+	margin-top: 3em;
 }
 #box1 {
 	display: inline;
