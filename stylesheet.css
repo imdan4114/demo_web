@@ -7,7 +7,7 @@ body {
 }
 #banner_top {
 	background-color: #6d2e3f;
-	height: 3em;
+	height: 4em;
 	font-family: impact;
 	font-size: 1em;
 	text-align: center;
@@ -18,13 +18,13 @@ body {
 }
 #banner_top2 {
 	background-color: #6d2e3f;
-	height: 2.5em;
+	height: 3.5em;
 	font-family: impact;
 	font-size: 1em;
 	text-align: center;
 	color: white;
 	position: fixed;
-	top: 3.5em;
+	top: 4em;
 	width: 100%;
 }
 #basicDiv {
