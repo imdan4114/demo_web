@@ -12,6 +12,7 @@ h1 {
 	font-size: 3em;
 	text-align: center;
 	color: white;
+	position: fixed;
 }
 h2 {
 	background-color: #6d2e3f;
@@ -21,6 +22,7 @@ h2 {
 	text-align: center;
 	color: white;
 	margin-top: -2em;
+	position: fixed;
 }
 .boxes {
 	text-align: center;
