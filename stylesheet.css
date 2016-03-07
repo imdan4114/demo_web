@@ -13,7 +13,7 @@ h1 {
 	text-align: center;
 	color: white;
 	position: fixed;
-	top: 1em;
+	top: 0.5em;
 	width: 100%;
 }
 h2 {
@@ -24,11 +24,11 @@ h2 {
 	text-align: center;
 	color: white;
 	position: fixed;
-	top: 3.2em;
+	top: 2.5em;
 	width: 100%;
 }
 #basicDiv {
-	height: 2em;
+	height: 4em;
 }
 .boxes {
 	text-align: center;
