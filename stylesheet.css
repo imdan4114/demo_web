@@ -28,7 +28,7 @@ body {
 /*Menu bar*/
 #firstDiv {
 	height: 3em;
-	width: 55em;
+	width: 60em;
 	position: fixed;
 	top: 0em;
 	margin-left: auto;
@@ -41,7 +41,7 @@ body {
 	font-size: 1.2em;
 	border: 0.2em #3c4262 solid;
 	border-radius: 0.6em;
-	display: inline;
+	display: block;
 	margin-bottom: -0.4em;
 }
 .boxes:hover {
