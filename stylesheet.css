@@ -13,7 +13,7 @@ body {
 	color: white;
 	position: fixed;
 	top: 0em;
-	margin-top: 1em;
+	margin-top: 2em;
 	margin-left:-0.5em;
 	width: 100%;
 }
@@ -44,7 +44,7 @@ body {
 	font-size: 1.2em;
 	border: 0.2em #3c4262 solid;
 	border-radius: 0.6em;
-	height: 5em;
+	height: 3em;
 	display: inline;
 	position: static;
 }
@@ -53,18 +53,23 @@ body {
 }
 #box1 {
 	margin-left: 30%;
+	height: 2em;
 }
 #box2 {
 	margin-left: 1.2em;
+	height: 2em;
 }
 #box3 {
 	margin-left: 1.2em;
+	height: 2em;
 }
 #box4 {
 	margin-left: 1.2em;
+	height: 2em;
 }
 #box5 {
 	margin-left: 1.2em;
+	height: 2em;
 }
 p {
 	color: #a43e32;
