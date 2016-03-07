@@ -5,9 +5,9 @@
 body {
 	background-color: #edcbc2;
 }
-h1 {
+#banner_top {
 	background-color: #6d2e3f;
-	height: 2.3em;
+	height: 2.5em;
 	font-family: impact;
 	font-size: 3em;
 	text-align: center;
@@ -16,9 +16,9 @@ h1 {
 	top: 0.5em;
 	width: 100%;
 }
-h2 {
+#banner_top2 {
 	background-color: #6d2e3f;
-	height: 2em;
+	height: 2.5em;
 	font-family: impact;
 	font-size: 2em;
 	text-align: center;
