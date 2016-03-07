@@ -30,7 +30,7 @@ body {
 	height: 3em;
 	width: 58em;
 	position: fixed;
-	top: 0em;
+	top: 0.2em;
 	margin-left: 30%;
 	margin-right: 30%;
 }
@@ -42,34 +42,46 @@ body {
 	border: 0.2em #3c4262 solid;
 	border-radius: 0.6em;
 	display: inline;
-	margin-bottom: -0.4em;
 }
-.boxes:hover {
-	font-size: 1.4em;
-}
+
 #box1 {
 	margin-top: 0.3em;
 	height: 1.6em;
+}
+#box1:hover {
+	font-size: 1.4em;
 }
 #box2 {
 	margin-left: 1.2em;
 	margin-top: 0.3em;
 	height: 1.6em;
 }
+#box2:hover {
+	font-size: 1.4em;
+}
 #box3 {
 	margin-left: 1.2em;
 	margin-top: 0.3em;
 	height: 1.6em;
+}
+#box3:hover {
+	font-size: 1.4em;
 }
 #box4 {
 	margin-left: 1.2em;
 	margin-top: 0.3em;
 	height: 1.6em;
 }
+#box4:hover {
+	font-size: 1.4em;
+}
 #box5 {
 	margin-left: 1.2em;
 	margin-top: 0.3em;
 	height: 1.6em;
+}
+#box5:hover {
+	font-size: 1.4em;
 }
 
 /*Main page text/images*/
