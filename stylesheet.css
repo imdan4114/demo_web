@@ -7,7 +7,7 @@ body {
 }
 .banner_top {
 	background-color: #6d2e3f;
-	height: 6em;
+	height: 10em;
 	font-family: impact;
 	text-align: center;
 	color: white;
@@ -18,10 +18,10 @@ body {
 	width: 100%;
 }
 #banner {
-	font-size: 2em;
+	font-size: 3em;
 }
 #banner2 {
-	font-size: 1.6em;
+	font-size: 2em;
 }
 /*#banner_top2 {
 	background-color: #6d2e3f;
@@ -44,9 +44,9 @@ body {
 	font-size: 1.2em;
 	border: 0.2em #3c4262 solid;
 	border-radius: 0.6em;
-	height: 3em;
+	height: 5em;
 	display: inline;
-	position: relative;
+	position: static;
 }
 .boxes:hover {
 	font-size: 1.4em;
