@@ -13,7 +13,6 @@ h1 {
 	text-align: center;
 	color: white;
 	position: fixed;
-	display: block;
 	top: 0em;
 	left: 0em;
 	width: 100%;
@@ -26,7 +25,6 @@ h2 {
 	text-align: center;
 	color: white;
 	position: fixed;
-	display: block;
 	top: 2.2em;
 	left: 0em;
 	width: 100%;
@@ -40,6 +38,7 @@ h2 {
 	border-radius: 0.6em;
 	height: 1.4em;
 	margin-top: 5em;
+	display: inline;
 }
 .boxes:hover {
 	text-align: center;
@@ -52,27 +51,22 @@ h2 {
 	margin-top: 5em;
 }
 #box1 {
-	display: inline;
 	position: relative;
 	margin-left: 30%;
 }
 #box2 {
-	display: inline;
 	position: relative;
 	margin-left: 1.2em;
 }
 #box3 {
-	display: inline;
 	position: relative;
 	margin-left: 1.2em;
 }
 #box4 {
-	display: inline;
 	position: relative;
 	margin-left: 1.2em;
 }
 #box5 {
-	display: inline;
 	position: relative;
 	margin-left: 1.2em;
 }
