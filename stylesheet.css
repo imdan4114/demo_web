@@ -15,6 +15,7 @@ h1 {
 	position: fixed;
 	display: block;
 	top: 0em;
+	width: 100%;
 }
 h2 {
 	background-color: #6d2e3f;
@@ -26,6 +27,7 @@ h2 {
 	position: fixed;
 	display: block;
 	top: 2.2em;
+	width: 100%;
 }
 .boxes {
 	text-align: center;
