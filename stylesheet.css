@@ -40,7 +40,7 @@ h2 {
 	border: 0.2em #3c4262 solid;
 	border-radius: 0.6em;
 	height: 1.4em;
-	margin-top: 5em;
+	margin-top: 7em;
 	display: inline;
 	/*position: relative;*/
 	position: absolute;
@@ -53,26 +53,30 @@ h2 {
 	border: 0.2em #3c4262 solid;
 	border-radius: 0.6em;
 	height: 1.6em;
-	margin-top: 5em;
+	margin-top: 7em;
 }
 #box1 {
 	margin-left: 30%;
 }
 #box2 {
+	position: relative;
 	margin-left: 1.2em;
 }
 #box3 {
+	position: relative;
 	margin-left: 1.2em;
 }
 #box4 {
+	position: relative;
 	margin-left: 1.2em;
 }
 #box5 {
+	position: relative;
 	margin-left: 1.2em;
 }
 p {
 	color: #a43e32;
 	text-align: center;
 	font-size:2em;
-	position: relative;
+	position: absolute;
 }
