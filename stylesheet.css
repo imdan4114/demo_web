@@ -8,14 +8,13 @@ body {
 h1 {
 	background-color: #6d2e3f;
 	height: 2.3em;
-	margin-top: 0em;
 	font-family: impact;
 	font-size: 3em;
 	text-align: center;
 	color: white;
-	margin-left: 0em;
-	margin-right: 0em;
 	position: fixed;
+	display: block;
+	top: 0em;
 }
 h2 {
 	background-color: #6d2e3f;
@@ -24,8 +23,9 @@ h2 {
 	font-size: 2em;
 	text-align: center;
 	color: white;
-	margin-top: 2.2em;
 	position: fixed;
+	display: block;
+	top: 2.2em;
 }
 .boxes {
 	text-align: center;
