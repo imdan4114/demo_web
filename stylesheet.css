@@ -28,6 +28,7 @@ body {
 /*Menu bar*/
 #firstDiv {
 	height: 3em;
+	width: 55em;
 	position: fixed;
 	top: 0em;
 	margin-left: auto;
