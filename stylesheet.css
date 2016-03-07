@@ -15,6 +15,7 @@ h1 {
 	position: fixed;
 	display: block;
 	top: 0em;
+	left: 0em;
 	width: 100%;
 }
 h2 {
@@ -27,6 +28,7 @@ h2 {
 	position: fixed;
 	display: block;
 	top: 2.2em;
+	left: 0em;
 	width: 100%;
 }
 .boxes {
