@@ -7,9 +7,9 @@ body {
 }
 #banner_top {
 	background-color: #6d2e3f;
-	height: 2.5em;
+	height: 3em;
 	font-family: impact;
-	font-size: 1.8em;
+	font-size: 1em;
 	text-align: center;
 	color: white;
 	position: fixed;
@@ -20,7 +20,7 @@ body {
 	background-color: #6d2e3f;
 	height: 2.5em;
 	font-family: impact;
-	font-size: 1.6em;
+	font-size: 1em;
 	text-align: center;
 	color: white;
 	position: fixed;
