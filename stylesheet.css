@@ -49,6 +49,8 @@ body {
 	height: 1.6em;
 }
 #box1:hover {
+	margin-left: -0.3em;
+	margin-top: -0.3;
 	font-size: 1.4em;
 }
 #box2 {
