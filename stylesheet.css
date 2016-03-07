@@ -29,6 +29,9 @@ h2 {
 	left: 0em;
 	width: 100%;
 }
+#basicDiv {
+	height: 2em;
+}
 .boxes {
 	text-align: center;
 	background-color: #3e4f7d;
