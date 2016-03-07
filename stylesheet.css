@@ -7,14 +7,19 @@ body {
 }
 .banner_top {
 	background-color: #6d2e3f;
-	height: 4em;
+	height: 6em;
 	font-family: impact;
-	font-size: 1em;
 	text-align: center;
 	color: white;
 	position: fixed;
 	top: 0em;
 	width: 100%;
+}
+#banner {
+	font-size: 2em;
+}
+#banner2 {
+	font-size: 1.6em;
 }
 /*#banner_top2 {
 	background-color: #6d2e3f;
