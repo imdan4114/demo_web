@@ -39,6 +39,8 @@ h2 {
 	height: 1.4em;
 	margin-top: 5em;
 	display: inline;
+	/*position: relative;*/
+	position: absolute;
 }
 .boxes:hover {
 	text-align: center;
@@ -51,23 +53,18 @@ h2 {
 	margin-top: 5em;
 }
 #box1 {
-	position: relative;
 	margin-left: 30%;
 }
 #box2 {
-	position: relative;
 	margin-left: 1.2em;
 }
 #box3 {
-	position: relative;
 	margin-left: 1.2em;
 }
 #box4 {
-	position: relative;
 	margin-left: 1.2em;
 }
 #box5 {
-	position: relative;
 	margin-left: 1.2em;
 }
 p {
