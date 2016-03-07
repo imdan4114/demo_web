@@ -5,6 +5,8 @@
 body {
 	background-color: #edcbc2;
 }
+
+/*Banner*/
 .banner_top {
 	background-color: #6d2e3f;
 	height: 10em;
@@ -22,21 +24,14 @@ body {
 #banner2 {
 	font-size: 2em;
 }
-/*#banner_top2 {
-	background-color: #6d2e3f;
-	height: 3.5em;
-	font-family: impact;
-	font-size: 1em;
-	text-align: center;
-	color: white;
-	position: fixed;
-	top: 4em;
-	width: 100%;
-}*/
+
+/*Menu bar*/
 #firstDiv {
 	height: 3em;
 	position: fixed;
 	top: 0em;
+	margin-left: auto;
+	margin-right: auto;
 }
 .boxes {
 	text-align: center;
@@ -75,6 +70,8 @@ body {
 	margin-top: 0.3em;
 	height: 1.6em;
 }
+
+/*Main page text/images*/
 .start {
 	color: #a43e32;
 	text-align: center;
