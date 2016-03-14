@@ -28,14 +28,7 @@ a:link, a:visited, a:active, a:hover {
 #banner2 {
 	font-size: 2em;
 }
-
-/* {
-	height: 3em;
-	width: 58em;
-	position: fixed;
-	top: 0.5em;
-	margin-left: 36em;
-} */
+/*Navbar*/
 .boxes {
 	text-align: center;
 	background-color: #3e4f7d;
@@ -44,6 +37,7 @@ a:link, a:visited, a:active, a:hover {
 	border: 0.2em #3c4262 solid;
 	border-radius: 0.6em;
 	display: inline;
+	text-decoration: none;
 }
 .boxes:hover {
 	color: #dbdbdb;
