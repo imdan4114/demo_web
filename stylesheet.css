@@ -38,38 +38,30 @@ a:link, a:visited, a:active, a:hover {
 	border-radius: 0.6em;
 	display: inline;
 	text-decoration: none;
+	padding: 0.5em;
 }
 .boxes:hover {
 	color: #dbdbdb;
 }
 
 #about {
-	padding-top: auto;
-	padding-bottom: auto;
+
 	height: 1.6em;
 }
 #qualifications {
 	margin-left: 1.2em;
-	padding-top: auto;
-	padding-bottom: auto;
 	height: 1.6em;
 }
 #workExp {
 	margin-left: 1.2em;
-	padding-top: auto;
-	padding-bottom: auto;
 	height: 1.6em;
 }
 #hobbies {
 	margin-left: 1.2em;
-	padding-top: auto;
-	padding-bottom: auto;
 	height: 1.6em;
 }
 #contact {
 	margin-left: 1.2em;
-	padding-top: auto;
-	padding-bottom: auto;
 	height: 1.6em;
 }
 
