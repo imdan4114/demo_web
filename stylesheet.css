@@ -13,7 +13,7 @@ a:link, a:visited, a:active, a:hover {
 /*Banner*/
 .bannerTop {
 	background-color: #6d2e3f;
-	height: 10em;
+	height: 12em;
 	font-family: impact;
 	text-align: center;
 	color: white;
@@ -39,7 +39,7 @@ a:link, a:visited, a:active, a:hover {
 	display: inline;
 	text-decoration: none;
 	padding: 0.1em;
-	margin-top: -8em;
+	margin-top: -7.5em;
 }
 .boxes:hover {
 	color: #dbdbdb;
