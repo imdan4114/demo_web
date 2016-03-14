@@ -50,15 +50,14 @@ a:active {
 	border-radius: 0.6em;
 	display: inline;
 }
+.boxes:hover {
+	color: #dbdbdb;
+}
 
 #box1 {
 	padding-top: auto;
 	padding-bottom: auto;
 	height: 1.6em;
-}
-#box1:hover {
-	/*font-size: 1.4em;*/
-	color: #dbdbdb;
 }
 #box2 {
 	margin-left: 1.2em;
@@ -66,19 +65,11 @@ a:active {
 	padding-bottom: auto;
 	height: 1.6em;
 }
-#box2:hover {
-	/*font-size: 1.4em;*/
-	color: #dbdbdb;
-}
 #box3 {
 	margin-left: 1.2em;
 	padding-top: auto;
 	padding-bottom: auto;
 	height: 1.6em;
-}
-#box3:hover {
-	/*font-size: 1.4em;*/
-	color: #dbdbdb;
 }
 #box4 {
 	margin-left: 1.2em;
@@ -86,19 +77,11 @@ a:active {
 	padding-bottom: auto;
 	height: 1.6em;
 }
-#box4:hover {
-	/*font-size: 1.4em;*/
-	color: #dbdbdb;
-}
 #box5 {
 	margin-left: 1.2em;
 	padding-top: auto;
 	padding-bottom: auto;
 	height: 1.6em;
-}
-#box5:hover {
-	/*font-size: 1.4em;*/
-	color: #dbdbdb;
 }
 
 /*Main page text/images*/
