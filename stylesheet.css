@@ -7,7 +7,7 @@ body {
 }
 
 /*Banner*/
-.banner_top {
+.bannerTop {
 	background-color: #6d2e3f;
 	height: 10em;
 	font-family: impact;
@@ -25,14 +25,13 @@ body {
 	font-size: 2em;
 }
 
-/*Menu bar*/
-#parentDiv {
+/* {
 	height: 3em;
 	width: 58em;
 	position: fixed;
 	top: 0.5em;
 	margin-left: 36em;
-}
+} */
 .boxes {
 	text-align: center;
 	background-color: #3e4f7d;
@@ -46,35 +45,36 @@ body {
 	color: #dbdbdb;
 }
 
-#box1 {
+#about {
 	padding-top: auto;
 	padding-bottom: auto;
 	height: 1.6em;
 }
-#box2 {
+#qualifications {
 	margin-left: 1.2em;
 	padding-top: auto;
 	padding-bottom: auto;
 	height: 1.6em;
 }
-#box3 {
+#workExp {
 	margin-left: 1.2em;
 	padding-top: auto;
 	padding-bottom: auto;
 	height: 1.6em;
 }
-#box4 {
+#hobbies {
 	margin-left: 1.2em;
 	padding-top: auto;
 	padding-bottom: auto;
 	height: 1.6em;
 }
-#box5 {
+#contact {
 	margin-left: 1.2em;
 	padding-top: auto;
 	padding-bottom: auto;
 	height: 1.6em;
 }
+
 
 /*Main page text/images*/
 .start {
