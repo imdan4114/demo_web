@@ -1,11 +1,15 @@
 /* Courier*/
+
+/*General rules*/
 * {
 	font-family:Rockwell;
 }
 body {
 	background-color: #edcbc2;
 }
-
+a:link, a:visited, a:active, a:hover {
+	text-decoration: none;
+}
 /*Banner*/
 .bannerTop {
 	background-color: #6d2e3f;
