@@ -21,7 +21,6 @@ a:link, a:visited, a:active, a:hover {
 	top: 0em;
 	margin-left:-0.5em;
 	width: 100%;
-	margin-top: -5em;
 }
 #banner {
 	font-size: 3em;
@@ -40,6 +39,7 @@ a:link, a:visited, a:active, a:hover {
 	display: inline;
 	text-decoration: none;
 	padding: 0.1em;
+	margin-top: -8em;
 }
 .boxes:hover {
 	color: #dbdbdb;
