@@ -92,6 +92,9 @@ body {
 	/*font-size: 1.4em;*/
 	color: #dbdbdb;
 }
+.navbar {
+	text-decoration: none;
+}
 
 /*Main page text/images*/
 .start {
