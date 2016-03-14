@@ -90,7 +90,5 @@ p {
 #cat_pic {
 	height: 45em;
 	width: 53em;
-	margin-left: auto;
-	margin-right: auto;
-	padding: 2em;
+	margin: auto;
 }
