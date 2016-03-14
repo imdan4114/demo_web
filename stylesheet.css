@@ -24,6 +24,7 @@ a:link, a:visited, a:active, a:hover {
 }
 #banner {
 	font-size: 3em;
+	padding-top: -1em;
 }
 #banner2 {
 	font-size: 2em;
