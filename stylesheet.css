@@ -27,6 +27,7 @@ a:link, a:visited, a:active, a:hover {
 }
 #bannerDescription {
 	font-size: 2em;
+	margin-bottom: 1em;
 }
 /*Navbar*/
 .boxes {
