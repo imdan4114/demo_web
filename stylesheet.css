@@ -91,4 +91,6 @@ p {
 	height: 45em;
 	width: 53em;
 	margin: auto;
+	margin-right: auto;
+	margin-left: auto;
 }
