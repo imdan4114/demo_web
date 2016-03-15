@@ -93,11 +93,5 @@ p {
 	width: 7em;
 	margin: auto;
 	display: block;
-}
-#about_picLink {
-	height: 7em;
-	width: 7em;
-	margin: auto;
-	display: static;
-	border: 5px solid black;
+	max-width: 7em;
 }
