@@ -90,7 +90,17 @@ p {
 }
 #about_pic {
 	height: 7em;
-	width: 7em;
-	margin: auto;
 	display: block;
+}
+#about_pic>a {
+	height: 7em;
+	width: 7em;
+	padding: auto;
+	margin: auto;
+}
+#about_pic>img {
+	height: 7em;
+	width: 7em;
+	padding: auto;
+	margin: auto;
 }
