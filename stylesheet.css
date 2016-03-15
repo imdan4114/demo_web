@@ -89,9 +89,12 @@ p {
 	margin-right: 10%;
 }
 #about_pic {
-	height: 7em;
 	width: 7em;
 	margin: auto;
 	display: block;
 	max-width: 7em;
+}
+.img {
+	width 7px
+	margin: 3em;
 }
