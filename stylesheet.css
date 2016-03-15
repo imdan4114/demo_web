@@ -91,7 +91,6 @@ p {
 #about_pic {
 	height: 7em;
 	width: 7em;
-	margin-left: auto;
-	margin-right: auto;
+	margin: auto;
 	display: block;
 }
