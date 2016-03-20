@@ -97,4 +97,8 @@ p {
 	margin: auto;
 	display: block;
 	max-width: 7em;
+	border-radius: 100%;
+}
+#about_pic:hover {
+	width: 7.5em;
 }
