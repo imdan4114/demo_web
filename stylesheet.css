@@ -52,25 +52,27 @@ a:link, a:visited, a:active, a:hover {
 .boxes:hover {
 	color: #dbdbdb;
 }
-
+#home {
+	height: 1.6em;
+}
 #about {
-
+	margin-left: 1em;
 	height: 1.6em;
 }
 #qualifications {
-	margin-left: 1.2em;
+	margin-left: 1em;
 	height: 1.6em;
 }
 #workExp {
-	margin-left: 1.2em;
+	margin-left: 1em;
 	height: 1.6em;
 }
 #hobbies {
-	margin-left: 1.2em;
+	margin-left: 1em;
 	height: 1.6em;
 }
 #contact {
-	margin-left: 1.2em;
+	margin-left: 1em;
 	height: 1.6em;
 }
 
