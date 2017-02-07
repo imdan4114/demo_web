@@ -23,7 +23,7 @@ a:link, a:visited, a:active, a:hover {
 	width: 100%;
 }
 #bannerName {
-	font-size: 72px;
+	font-size: 3em;
 	margin-top: 0.05em;
 	font-family: impact;
 	color: white;
